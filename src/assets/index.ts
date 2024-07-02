@@ -1,4 +1,5 @@
 export { default as UserImage } from "./images/user-img.jpg";
+export { default as Menu } from "./images/menu.png";
 
 // navbar icons
 export { default as Home } from "./images/nav-icons/home.png";
